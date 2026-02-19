@@ -1,0 +1,8 @@
+{
+  "name": "FairRide",
+  "description": "A ride-hailing application that allows users to offer a price for their ride and have drivers accept it. It provides a transparent and user-centric approach to ride-sharing, with separate interfaces for customers and drivers.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}

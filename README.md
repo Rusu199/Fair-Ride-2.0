@@ -1,11 +1,15 @@
-<div align="center">
+# FairRide App
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+This is a ride-hailing application that allows users to offer a price for their ride and have drivers accept it. It provides a transparent and user-centric approach to ride-sharing, with separate interfaces for customers and drivers.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+-   **Customer Flow:** Request a ride, set your own price, wait for a driver, and track your ride.
+-   **Driver Flow:** View incoming ride requests, accept or decline offers, and manage active rides.
+-   **Admin Panel:** Manage users and view completed trip history.
+-   **Real-time Chat:** Communicate with your driver or customer.
+-   **AI-Powered Features:** Get suggested pricing and chat message suggestions powered by the Gemini API.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## How to Use
 
-</div>
+This web application is designed to be run in a development environment like AI Studio. You can switch between Customer, Driver, and Admin views using the button in the top-right corner to explore all features.
